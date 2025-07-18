@@ -1,3 +1,30 @@
+.participants-section {
+  margin-top: 10px;
+}
+
+.participants-section strong {
+  display: block;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.participants-list {
+  list-style: disc inside;
+  margin: 0 0 0 18px;
+  padding: 0;
+  color: #444;
+  font-size: 15px;
+}
+
+.participants-list li {
+  margin-bottom: 2px;
+  padding-left: 0;
+}
+
+.no-participants {
+  color: #aaa;
+  font-style: italic;
+}
 * {
   box-sizing: border-box;
   margin: 0;
